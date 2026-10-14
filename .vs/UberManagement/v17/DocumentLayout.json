@@ -1,0 +1,751 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\controllers\\ridescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\controllers\\ridescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\repos\\interfaces\\iridesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\repos\\interfaces\\iridesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\repos\\implementation\\ridesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\repos\\implementation\\ridesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\models\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\models\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\repos\\implementation\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\repos\\implementation\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\mapping\\modelprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\mapping\\modelprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\repos\\implementation\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\repos\\implementation\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\dtos\\ride\\reportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\dtos\\ride\\reportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\dtos\\ride\\getridedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\dtos\\ride\\getridedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\dtos\\ride\\createridedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\dtos\\ride\\createridedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\dtos\\vehicle\\getvehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\dtos\\vehicle\\getvehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\dtos\\vehicle\\createvehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\dtos\\vehicle\\createvehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\repos\\interfaces\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\repos\\interfaces\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\jwt\\authrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\jwt\\authrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Migrations\\20261014110014_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UberManagement\\Migrations\\20261014110014_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Migrations\\20261014105936_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UberManagement\\Migrations\\20261014105936_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Migrations\\20261014105854_init11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UberManagement\\Migrations\\20261014105854_init11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\dtos\\user\\getuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\dtos\\user\\getuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\repos\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\repos\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\jwt\\iauthrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\jwt\\iauthrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\ubermanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\ubermanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\dtos\\user\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\dtos\\user\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Migrations\\20261014100719_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UberManagement\\Migrations\\20261014100719_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Migrations\\20261014100511_init55.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UberManagement\\Migrations\\20261014100511_init55.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Migrations\\20261014095959_init8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UberManagement\\Migrations\\20261014095959_init8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Migrations\\20261014095813_init7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UberManagement\\Migrations\\20261014095813_init7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Migrations\\20261014095556_init4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UberManagement\\Migrations\\20261014095556_init4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|c:\\users\\ahmed.aatef\\source\\repos\\ubermanagement\\ubermanagement\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE215C3-E1F2-477A-B210-097AB73A3836}|UberManagement\\UberManagement.csproj|solutionrelative:ubermanagement\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Migrations\\20261014095348_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UberManagement\\Migrations\\20261014095348_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Migrations\\20261014094756_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UberManagement\\Migrations\\20261014094756_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ridesController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Controllers\\ridesController.cs",
+              "RelativeDocumentMoniker": "UberManagement\\Controllers\\ridesController.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Controllers\\ridesController.cs",
+              "RelativeToolTip": "UberManagement\\Controllers\\ridesController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:09:42.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RidesRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Repos\\Implementation\\RidesRepo.cs",
+              "RelativeDocumentMoniker": "UberManagement\\Repos\\Implementation\\RidesRepo.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Repos\\Implementation\\RidesRepo.cs",
+              "RelativeToolTip": "UberManagement\\Repos\\Implementation\\RidesRepo.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T11:38:50.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Repos\\Implementation\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "UberManagement\\Repos\\Implementation\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Repos\\Implementation\\GenericRepo.cs",
+              "RelativeToolTip": "UberManagement\\Repos\\Implementation\\GenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T10:12:08.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\UnitOFWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "UberManagement\\UnitOFWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\UnitOFWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "UberManagement\\UnitOFWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T10:15:22.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\UnitOFWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "UberManagement\\UnitOFWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\UnitOFWork\\UnitOfWork.cs",
+              "RelativeToolTip": "UberManagement\\UnitOFWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADgvw8AAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T10:15:39.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRidesRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Repos\\Interfaces\\IRidesRepo.cs",
+              "RelativeDocumentMoniker": "UberManagement\\Repos\\Interfaces\\IRidesRepo.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Repos\\Interfaces\\IRidesRepo.cs",
+              "RelativeToolTip": "UberManagement\\Repos\\Interfaces\\IRidesRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T11:38:58.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ride.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Models\\Ride.cs",
+              "RelativeDocumentMoniker": "UberManagement\\Models\\Ride.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Models\\Ride.cs",
+              "RelativeToolTip": "UberManagement\\Models\\Ride.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA6wA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T06:59:18.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Program.cs",
+              "RelativeDocumentMoniker": "UberManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Program.cs",
+              "RelativeToolTip": "UberManagement\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAawBQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T07:37:20.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "authController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Controllers\\authController.cs",
+              "RelativeDocumentMoniker": "UberManagement\\Controllers\\authController.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Controllers\\authController.cs",
+              "RelativeToolTip": "UberManagement\\Controllers\\authController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T10:51:24.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ModelProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Mapping\\ModelProfile.cs",
+              "RelativeDocumentMoniker": "UberManagement\\Mapping\\ModelProfile.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Mapping\\ModelProfile.cs",
+              "RelativeToolTip": "UberManagement\\Mapping\\ModelProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T11:21:28.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "usersController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Controllers\\usersController.cs",
+              "RelativeDocumentMoniker": "UberManagement\\Controllers\\usersController.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Controllers\\usersController.cs",
+              "RelativeToolTip": "UberManagement\\Controllers\\usersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T11:12:13.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReportDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\DTOs\\Ride\\ReportDTO.cs",
+              "RelativeDocumentMoniker": "UberManagement\\DTOs\\Ride\\ReportDTO.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\DTOs\\Ride\\ReportDTO.cs",
+              "RelativeToolTip": "UberManagement\\DTOs\\Ride\\ReportDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T11:47:41.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetRideDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\DTOs\\Ride\\GetRideDTO.cs",
+              "RelativeDocumentMoniker": "UberManagement\\DTOs\\Ride\\GetRideDTO.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\DTOs\\Ride\\GetRideDTO.cs",
+              "RelativeToolTip": "UberManagement\\DTOs\\Ride\\GetRideDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T11:46:28.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateRideDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\DTOs\\Ride\\CreateRideDTO.cs",
+              "RelativeDocumentMoniker": "UberManagement\\DTOs\\Ride\\CreateRideDTO.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\DTOs\\Ride\\CreateRideDTO.cs",
+              "RelativeToolTip": "UberManagement\\DTOs\\Ride\\CreateRideDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T11:46:39.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetVehicleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\DTOs\\Vehicle\\GetVehicleDTO.cs",
+              "RelativeDocumentMoniker": "UberManagement\\DTOs\\Vehicle\\GetVehicleDTO.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\DTOs\\Vehicle\\GetVehicleDTO.cs",
+              "RelativeToolTip": "UberManagement\\DTOs\\Vehicle\\GetVehicleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T11:30:58.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateVehicleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\DTOs\\Vehicle\\CreateVehicleDTO.cs",
+              "RelativeDocumentMoniker": "UberManagement\\DTOs\\Vehicle\\CreateVehicleDTO.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\DTOs\\Vehicle\\CreateVehicleDTO.cs",
+              "RelativeToolTip": "UberManagement\\DTOs\\Vehicle\\CreateVehicleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T11:30:49.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Repos\\Implementation\\UserRepo.cs",
+              "RelativeDocumentMoniker": "UberManagement\\Repos\\Implementation\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Repos\\Implementation\\UserRepo.cs",
+              "RelativeToolTip": "UberManagement\\Repos\\Implementation\\UserRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T11:12:32.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "vehiclesController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Controllers\\vehiclesController.cs",
+              "RelativeDocumentMoniker": "UberManagement\\Controllers\\vehiclesController.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Controllers\\vehiclesController.cs",
+              "RelativeToolTip": "UberManagement\\Controllers\\vehiclesController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwC0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T11:29:56.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "UberManagement\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Models\\Vehicle.cs",
+              "RelativeToolTip": "UberManagement\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T06:57:46.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Repos\\Interfaces\\IUserRepo.cs",
+              "RelativeDocumentMoniker": "UberManagement\\Repos\\Interfaces\\IUserRepo.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Repos\\Interfaces\\IUserRepo.cs",
+              "RelativeToolTip": "UberManagement\\Repos\\Interfaces\\IUserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T11:12:41.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "UberManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\appsettings.json",
+              "RelativeToolTip": "UberManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-14T07:36:29.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20261014110014_init.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Migrations\\20261014110014_init.cs",
+              "RelativeDocumentMoniker": "UberManagement\\Migrations\\20261014110014_init.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Migrations\\20261014110014_init.cs",
+              "RelativeToolTip": "UberManagement\\Migrations\\20261014110014_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T11:00:15.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20261014105936_init.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Migrations\\20261014105936_init.cs",
+              "RelativeDocumentMoniker": "UberManagement\\Migrations\\20261014105936_init.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Migrations\\20261014105936_init.cs",
+              "RelativeToolTip": "UberManagement\\Migrations\\20261014105936_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T10:59:37.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\DTOs\\Auth\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "UberManagement\\DTOs\\Auth\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\DTOs\\Auth\\RegisterDTO.cs",
+              "RelativeToolTip": "UberManagement\\DTOs\\Auth\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T10:16:56.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\JWT\\AuthRepo.cs",
+              "RelativeDocumentMoniker": "UberManagement\\JWT\\AuthRepo.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\JWT\\AuthRepo.cs",
+              "RelativeToolTip": "UberManagement\\JWT\\AuthRepo.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA3wDAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T10:18:56.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20261014105854_init11.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Migrations\\20261014105854_init11.cs",
+              "RelativeDocumentMoniker": "UberManagement\\Migrations\\20261014105854_init11.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Migrations\\20261014105854_init11.cs",
+              "RelativeToolTip": "UberManagement\\Migrations\\20261014105854_init11.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T10:58:54.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IAuthRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\JWT\\IAuthRepo.cs",
+              "RelativeDocumentMoniker": "UberManagement\\JWT\\IAuthRepo.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\JWT\\IAuthRepo.cs",
+              "RelativeToolTip": "UberManagement\\JWT\\IAuthRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T10:16:03.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Repos\\Interfaces\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "UberManagement\\Repos\\Interfaces\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Repos\\Interfaces\\IGenericRepo.cs",
+              "RelativeToolTip": "UberManagement\\Repos\\Interfaces\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T10:10:57.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\DTOs\\User\\GetUserDTO.cs",
+              "RelativeDocumentMoniker": "UberManagement\\DTOs\\User\\GetUserDTO.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\DTOs\\User\\GetUserDTO.cs",
+              "RelativeToolTip": "UberManagement\\DTOs\\User\\GetUserDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA2wAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T10:09:22.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\DTOs\\Auth\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "UberManagement\\DTOs\\Auth\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\DTOs\\Auth\\LoginDTO.cs",
+              "RelativeToolTip": "UberManagement\\DTOs\\Auth\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T10:16:46.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UberManagement\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Models\\User.cs",
+              "RelativeToolTip": "UberManagement\\Models\\User.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T06:53:35.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CreateUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\DTOs\\User\\CreateUserDTO.cs",
+              "RelativeDocumentMoniker": "UberManagement\\DTOs\\User\\CreateUserDTO.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\DTOs\\User\\CreateUserDTO.cs",
+              "RelativeToolTip": "UberManagement\\DTOs\\User\\CreateUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T10:09:31.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20261014100719_init.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Migrations\\20261014100719_init.cs",
+              "RelativeDocumentMoniker": "UberManagement\\Migrations\\20261014100719_init.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Migrations\\20261014100719_init.cs",
+              "RelativeToolTip": "UberManagement\\Migrations\\20261014100719_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T10:07:20.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20261014100511_init55.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Migrations\\20261014100511_init55.cs",
+              "RelativeDocumentMoniker": "UberManagement\\Migrations\\20261014100511_init55.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Migrations\\20261014100511_init55.cs",
+              "RelativeToolTip": "UberManagement\\Migrations\\20261014100511_init55.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T10:05:11.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20261014095959_init8.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Migrations\\20261014095959_init8.cs",
+              "RelativeDocumentMoniker": "UberManagement\\Migrations\\20261014095959_init8.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Migrations\\20261014095959_init8.cs",
+              "RelativeToolTip": "UberManagement\\Migrations\\20261014095959_init8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T09:59:59.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UberManagement",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\UberManagement.csproj",
+              "RelativeDocumentMoniker": "UberManagement\\UberManagement.csproj",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\UberManagement.csproj",
+              "RelativeToolTip": "UberManagement\\UberManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-14T07:22:03.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20261014095813_init7.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Migrations\\20261014095813_init7.cs",
+              "RelativeDocumentMoniker": "UberManagement\\Migrations\\20261014095813_init7.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Migrations\\20261014095813_init7.cs",
+              "RelativeToolTip": "UberManagement\\Migrations\\20261014095813_init7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T09:58:13.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "UberManagement\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "UberManagement\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T07:22:19.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20261014095556_init4.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Migrations\\20261014095556_init4.cs",
+              "RelativeDocumentMoniker": "UberManagement\\Migrations\\20261014095556_init4.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Migrations\\20261014095556_init4.cs",
+              "RelativeToolTip": "UberManagement\\Migrations\\20261014095556_init4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T09:55:56.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Models\\Rating.cs",
+              "RelativeDocumentMoniker": "UberManagement\\Models\\Rating.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Models\\Rating.cs",
+              "RelativeToolTip": "UberManagement\\Models\\Rating.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T07:20:03.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20261014095348_init2.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Migrations\\20261014095348_init2.cs",
+              "RelativeDocumentMoniker": "UberManagement\\Migrations\\20261014095348_init2.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Migrations\\20261014095348_init2.cs",
+              "RelativeToolTip": "UberManagement\\Migrations\\20261014095348_init2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T09:53:48.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "UberManagement\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Models\\Payment.cs",
+              "RelativeToolTip": "UberManagement\\Models\\Payment.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T07:17:30.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20261014094756_init1.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Migrations\\20261014094756_init1.cs",
+              "RelativeDocumentMoniker": "UberManagement\\Migrations\\20261014094756_init1.cs",
+              "ToolTip": "C:\\Users\\Ahmed.Aatef\\source\\repos\\UberManagement\\UberManagement\\Migrations\\20261014094756_init1.cs",
+              "RelativeToolTip": "UberManagement\\Migrations\\20261014094756_init1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T09:47:56.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
